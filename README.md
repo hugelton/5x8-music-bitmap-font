@@ -3,7 +3,7 @@
 
 
 ## How to use
-Please replace '''font[]''' array on "glcfont.c" from "5x8-music-bitmap-font/for_glcfont.c".
+Please replace 'font[]' array on "glcfont.c" from "5x8-music-bitmap-font/for_glcfont.c".
 
 ```cpp
 display.write(0x03); // quater note
